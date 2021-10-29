@@ -1,4 +1,4 @@
-print("Olá, mundo!")
-print("Olá, mundo!")
-print("Olá, mundo!")
-print("Olá, mundo!")
+print ("digite alguma coisa: ")
+
+#encontro softex
+
